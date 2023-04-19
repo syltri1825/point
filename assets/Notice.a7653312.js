@@ -1,0 +1,1 @@
+import{a as e,F as a}from"./app.504b6824.js";function c({notice:r}){return e(a,{children:e("div",{className:"col-md-12 bg-warning text-center",children:e("h1",{className:"col-md-12",children:r})})})}export{c as default};

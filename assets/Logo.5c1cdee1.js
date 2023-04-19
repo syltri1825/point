@@ -1,0 +1,1 @@
+import{a as t,F as n}from"./app.504b6824.js";function e({className:i,nameLogo:o}){return(o="logo")?t(n,{children:t("img",{src:"../../../images/pointclient2.png",alt:"",className:i,width:"100px",height:"auto"})}):t(n,{children:t("img",{src:"../../images/pointclient2.png",alt:"",className:i,width:"100px",height:"auto"})})}export{e as L};
